@@ -1,7 +1,6 @@
 # JonLimjap.NET
 
 Migration and continuation of jonlimjap.net using Azure Static WebApps and migrating from Ghost to Eleventy.
-
 ## Getting Started
 
 1. Clone this Repository
