@@ -8,11 +8,13 @@ description: >-
 image: "/images/hiroshimabridge.jpg"
 ---
 
-For the past 2 years I have been meaning to migrate this site away from its previous platform. Previously I've used [Ghost CMS](https://docs.ghost.org/) for my site, and while it's beautiful and functional, it's becoming expensive. Maintaining a virtual machine on Azure was expensive, and I had been meaning to move to a static platform to save on costs.
+For the past 2 years I have been meaning to migrate this site away from its previous platform. I have been using [Ghost CMS](https://docs.ghost.org/) for this site, and while it's beautiful and functional, it's becoming unbearably expensive. With a virtual machine running on Azure, along with all the requisite services, and I had been meaning to move to a static web application to save on costs.
+
+The biggest hurdle by far was migrating data. While it was fairly easy to obtain a JSON file that contained all of your Ghost entries, and with so little content, this was the easiest first step. 
+
+But what do I do with that data? I ended up having to take three more steps.
 
 <!--more-->
-
-The biggest hurdle by far was migrating data. While it was fairly easy to obtain a JSON file that contained all of your Ghost entries, and with my writing being so scarce that there was such little content, this was the easiest first step. But what do I do with that data? I now had two problems to solve.
 
 ## Step 1 - Choose a static website platform to move to
 
@@ -20,7 +22,9 @@ This was by far the most complicated step in the move. In the past couple of yea
 
 That was a deal breaker.
 
-After exploring options such as [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/), and running across different obstacles; Node being its own dependency hell, and severely outdated or abandoned design themes and templates, I eventually settled on [Eleventy](https://www.11ty.dev/). Eleventy had Markdown and Frontmatter support out of the box, which made creating new entries easy. To address the obsolesence issue, I consulted Google Gemini to help me find which CMS had themes that were actively updated, and this is how I settled on the [Eleventy Netlify Blog Starter](https://github.com/netlify-templates/eleventy-blog-starter/) template.
+After exploring options such as [Hugo](https://gohugo.io/) and [Jekyll](https://jekyllrb.com/), and running across different obstacles; Node being its own dependency hell, and severely outdated or abandoned design themes and templates, I eventually settled on [Eleventy](https://www.11ty.dev/). Eleventy had Markdown and Frontmatter support out of the box, which made creating new entries easy. 
+
+To address the obsolesence issue, I consulted Google Gemini to help me find which CMS had themes that were actively updated, and this is how I settled on the [Eleventy Netlify Blog Starter](https://github.com/netlify-templates/eleventy-blog-starter/) template.
 
 ## Step 2 - Moving everything to Eleventy
 
