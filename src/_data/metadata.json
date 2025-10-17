@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "title": "JonLimjap.NET",
+    "title": "Jon Limjap.NET",
     "url": "https://jonlimjap.net/",
     "description": "Technology and self-care in the lost art of long form",
     "navLinks": [
@@ -24,7 +24,7 @@
     "hero": {
         "type": "Hero",
         "title": "Software developer, Photographer, Dad",
-        "text": "I'm a software developer, former Microsoft MVP, and software community veteran. Nowadays I help out in the scale model / plamodel community. I love travel and miniature photography.",
+        "text": "I'm a software developer, former Microsoft MVP, and software community veteran, currently working for a company called PageUp. Nowadays I help out in the scale model / plamodel community.\n\nI love miniatures, travel, and photographing both miniatures and travel!",
         "image": {
             "src": "/images/jonlimjap.jpg",
             "alt": "Jon Limjap"
