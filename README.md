@@ -1,17 +1,6 @@
-# Eleventy (11ty) Blog Starter
+# JonLimjap.NET
 
-![Eleventy Blog Starter preview.](eleventy-blog-starter.jpg)
-
-A starter repository showing how to build a blog with the [Eleventy](https://www.11ty.dev/) and [Tailwind CSS](https://tailwindcss.com/). 
-
-**View demo:** [https://11ty-blog-starter-demo.netlify.app/](https://11ty-blog-starter-demo.netlify.app/)
-
-## Deploying to Netlify
-
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/eleventy-blog-starter)
-
+Migration and continuation of jonlimjap.net using Azure Static WebApps and migrating from Ghost to Eleventy.
 
 ## Getting Started
 
