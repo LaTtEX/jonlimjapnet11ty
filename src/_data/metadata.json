@@ -11,6 +11,14 @@
         {
             "label": "Blog",
             "url": "/blog"
+        },
+        {
+            "label": "LinkedIn",
+            "url": "https://ph.linkedin.com/in/jonlimjap"
+        },
+        {
+            "label": "Github",
+            "url": "https://github.com/lattex"
         }
     ],
     "hero": {
