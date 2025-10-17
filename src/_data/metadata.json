@@ -1,8 +1,8 @@
 {
     "type": "Config",
-    "title": "Eleventy Blog Starter",
+    "title": "JonLimjap .NET",
     "url": "https://example.com/",
-    "description": "Explore the Eleventy Starter with Netlify demo",
+    "description": "Technology and self-care in the lost art of long form",
     "navLinks": [
         {
             "label": "Home",
@@ -11,10 +11,6 @@
         {
             "label": "Blog",
             "url": "/blog"
-        },
-        {
-            "label": "Eleventy + Netlify ↗",
-            "url": "https://docs.netlify.com/frameworks/eleventy/"
         }
     ],
     "hero": {
