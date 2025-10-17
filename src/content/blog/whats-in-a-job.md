@@ -5,10 +5,12 @@
     tags:
       - Personal
     featured: false
-    image: "https://images.unsplash.com/photo-1483389127117-b6a2102724ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIyfHx3b3JrfGVufDB8fHx8MTY5NTA4NTEwMXww&ixlib=rb-4.0.3&q=80&w=2000"
+    image: "/images/job.webp"
     excerpt: ""
 ---
-    <p></p><p>One of the most beautiful words in the Tagalog language is the word for "job" or "work", which is "hanapbuhay". The word is a combination of two more Tagalog words&colon; "hanap", which means to search, and "buhay", which means life.</p><figure class="kg-card kg-image-card kg-card-hascaption"><img src="/images/IMG_20230914_093017-3-3.jpg" class="kg-image" alt="Hanapbuhay in Baybayin"><figcaption>"Hanapbuhay" in Baybayin</figcaption></figure>
+    <p></p><p>One of the most beautiful words in the Tagalog language is the word for "job" or "work", which is "hanapbuhay". The word is a combination of two more Tagalog words&colon; "hanap", which means to search, and "buhay", which means life.</p>
+    
+    <figure><img src="/images/IMG_20230914_093017-3-3.jpg" alt="Hanapbuhay in Baybayin"><figcaption>"Hanapbuhay" in Baybayin</figcaption></figure>
     
     <!--more-->
     
