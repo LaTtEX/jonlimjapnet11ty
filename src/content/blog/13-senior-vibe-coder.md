@@ -8,7 +8,7 @@ description: >-
 image: /images/vibecoding.png
 ---
 
-In the previous article I mentioned that I used AI to [refresh this site](../blog/12-refresh), in everything from migrating the data from the previous site to choosing a new platform to use. That's far from the first time I have used AI, in fact I use it more often for work more than anything. I have been using everything from single code functions to full build and deployment scripts are now faster than ever before. Even the image in the banner for this entry was generated with [Google Gemini](https://gemini.google.com).
+In the past I've mentioned that I used AI to [refresh this site](../blog/12-refresh), in everything from migrating the data from the previous platform to a new one, to choosing a new platform to use. That's far from the first time I have used AI, in fact I use it more often for work more than anything. I have been using everything from single code functions to full build and deployment scripts are now faster than ever before. Even the image in the banner for this entry was generated with [Google Gemini](https://gemini.google.com).
 
 Indeed the past year has been a somewhat annoying, somewhat entertaining year where people swung from predicting that "AI is going to replace developers" to the rise of a new job position: the [vibe code cleanup specialist](https://www.linkedin.com/posts/arkadiy-kazazyan-652b20b_meet-the-new-job-title-of-2025vibe-code-activity-7363569300021862402-MEWF/)
 
