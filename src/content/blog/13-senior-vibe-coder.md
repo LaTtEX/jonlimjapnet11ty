@@ -2,7 +2,7 @@
 type: Post
 slug: senior-vibe-coder
 title: Senior Vibe Coder
-date: '2025-12-11'
+date: '2026-01-03'
 description: >-
   AI isn't making software developers obsolete. It's making senior developers more important
 image: /images/vibecoding.png
