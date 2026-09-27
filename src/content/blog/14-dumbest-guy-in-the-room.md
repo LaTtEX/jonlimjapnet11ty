@@ -18,6 +18,8 @@ Still, a nagging feeling overcame me whenever someone asked, "Where is your entr
 
 I didn't have one. 
 
+<!--more-->
+
 <figure>
   <img src="/images/jon_psms2025.jpg" alt="Jon taking photos during PSMS 2025"/>
   <figcaption>Me taking photos during PSMS 2025</figcaption>
